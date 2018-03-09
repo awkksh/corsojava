@@ -23,7 +23,7 @@ public class JavaApplication2 {
         // modifica 1732 del 9 marzo
         int a=10;
         String s = "il corso è iniziato";
-        
+        Integer i = null; 
     }
     
 }
