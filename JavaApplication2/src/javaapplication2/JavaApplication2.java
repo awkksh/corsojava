@@ -22,7 +22,8 @@ public class JavaApplication2 {
         // modifica 2320 da pc
         // modifica 1732 del 9 marzo
         int a=10;
-        String s = "il corso è finito";
+        String s = "il corso è iniziato";
+        
     }
     
 }
